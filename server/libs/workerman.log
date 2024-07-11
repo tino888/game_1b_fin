@@ -1,0 +1,6 @@
+2021-07-02 18:11:02 pid:1 Worker process terminated
+2021-07-03 15:43:40 pid:1 Worker process terminated with ERROR: E_ERROR "Call to undefined function indexOf() in F:\works\zhangdi\nz\source\ws_s.php on line 42"
+2021-07-03 15:44:38 pid:1 Worker process terminated with ERROR: E_ERROR "Call to undefined function indexOf() in F:\works\zhangdi\nz\source\ws_s.php on line 43"
+2021-07-03 15:45:42 pid:1 Worker process terminated with ERROR: E_ERROR "Call to undefined function indexOf() in F:\works\zhangdi\nz\source\ws_s.php on line 43"
+2021-07-03 20:17:13 pid:1 Worker process terminated with ERROR: E_ERROR "Call to undefined function indexOf() in F:\works\zhangdi\nz\source\ws_s.php on line 43"
+2021-07-03 20:19:10 pid:1 Worker process terminated with ERROR: E_ERROR "Call to undefined function indexOf() in F:\works\zhangdi\nz\source\ws_s.php on line 43"
